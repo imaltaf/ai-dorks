@@ -1,0 +1,97 @@
+#Generated dork
+
+"index of" site:example.com
+inurl:"/admin.php" site:example.com
+intitle:"Index of" inurl:backup site:example.com
+intext:"Powered by MyBB" site:example.com
+intitle:"Index of" intext:.bash_history
+intitle:"Index of" intext:.git site:example.com
+intitle:"Index of" intext:.svn site:example.com
+intitle:"Index of" intext:config.php site:example.com
+intitle:"Index of" intext:database site:example.com
+intitle:"Index of" intext:password site:example.com
+inurl:"/phpinfo.php" site:example.com
+inurl:"/wp-content/uploads" site:example.com
+inurl:"/robots.txt" site:example.com
+inurl:"/admin/login.asp" site:example.com
+inurl:"/admin/login.php" site:example.com
+inurl:"/admin/login.aspx" site:example.com
+inurl:"/admin/login.html" site:example.com
+inurl:"/wp-admin" site:example.com
+inurl:"/login" site:example.com
+inurl:"/dashboard" site:example.com
+inurl:"/adminpanel" site:example.com
+inurl:"/admincp" site:example.com
+inurl:"/login.php?admin" site:example.com
+inurl:"/phpMyAdmin" site:example.com
+intitle:"Login - WordPress" site:example.com
+intitle:"Admin Login" site:example.com
+intitle:"Login - Admin" site:example.com
+intitle:"Login - Administrator" site:example.com
+intitle:"Login - Manager" site:example.com
+intitle:"Login - Moderator" site:example.com
+intitle:"Login - User" site:example.com
+intitle:"Login - Staff" site:example.com
+intitle:"Login - Client" site:example.com
+intitle:"Login - Member" site:example.com
+intitle:"Login - Customer" site:example.com
+intitle:"Login - Employee" site:example.com
+intitle:"Login - Support" site:example.com
+intitle:"Login - Webmail" site:example.com
+intitle:"Login - Webmail" intext:"email" site:example.com
+intitle:"Login - Webmail" intext:"username" site:example.com
+intitle:"Login - Webmail" intext:"password" site:example.com
+intitle:"Login - cPanel" site:example.com
+intitle:"Login - WHM" site:example.com
+intitle:"Login - Plesk" site:example.com
+intitle:"Login - DirectAdmin" site:example.com
+intitle:"Login - vBulletin" site:example.com
+intitle:"Login - phpBB" site:example.com
+intitle:"Login - SMF" site:example.com"index of" site:example.com
+inurl:"/admin.php" site:example.com
+intitle:"Index of" inurl:backup site:example.com
+intext:"Powered by MyBB" site:example.com
+intitle:"Index of" intext:.bash_history
+intitle:"Index of" intext:.git site:example.com
+intitle:"Index of" intext:.svn site:example.com
+intitle:"Index of" intext:config.php site:example.com
+intitle:"Index of" intext:database site:example.com
+intitle:"Index of" intext:password site:example.com
+inurl:"/phpinfo.php" site:example.com
+inurl:"/wp-content/uploads" site:example.com
+inurl:"/robots.txt" site:example.com
+inurl:"/admin/login.asp" site:example.com
+inurl:"/admin/login.php" site:example.com
+inurl:"/admin/login.aspx" site:example.com
+inurl:"/admin/login.html" site:example.com
+inurl:"/wp-admin" site:example.com
+inurl:"/login" site:example.com
+inurl:"/dashboard" site:example.com
+inurl:"/adminpanel" site:example.com
+inurl:"/admincp" site:example.com
+inurl:"/login.php?admin" site:example.com
+inurl:"/phpMyAdmin" site:example.com
+intitle:"Login - WordPress" site:example.com
+intitle:"Admin Login" site:example.com
+intitle:"Login - Admin" site:example.com
+intitle:"Login - Administrator" site:example.com
+intitle:"Login - Manager" site:example.com
+intitle:"Login - Moderator" site:example.com
+intitle:"Login - User" site:example.com
+intitle:"Login - Staff" site:example.com
+intitle:"Login - Client" site:example.com
+intitle:"Login - Member" site:example.com
+intitle:"Login - Customer" site:example.com
+intitle:"Login - Employee" site:example.com
+intitle:"Login - Support" site:example.com
+intitle:"Login - Webmail" site:example.com
+intitle:"Login - Webmail" intext:"email" site:example.com
+intitle:"Login - Webmail" intext:"username" site:example.com
+intitle:"Login - Webmail" intext:"password" site:example.com
+intitle:"Login - cPanel" site:example.com
+intitle:"Login - WHM" site:example.com
+intitle:"Login - Plesk" site:example.com
+intitle:"Login - DirectAdmin" site:example.com
+intitle:"Login - vBulletin" site:example.com
+intitle:"Login - phpBB" site:example.com
+intitle:"Login - SMF" site:example.com

@@ -1,0 +1,7 @@
+version: '3'
+services:
+  ai_dorks:
+    image: darkmechanic/ai_dorks:latest
+    ports:
+      - "8089:80"  # Map the container's port 80 to the host's port 8089 (adjust as needed)
+    restart: unless-stopped  # Automatically restart the container unless explicitly stopped

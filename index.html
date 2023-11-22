@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ai-Dorks</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+        
+
+</head>
+<body>
+    <div class="container">
+        <!-- Logo -->        <a href="https://opensecai.com">
+            <img src="op2.png" alt="Logo" style="max-width: 200px; max-height: 100px; margin-left: auto; display: block; border-radius: 50%; box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);">
+          </a>
+  
+
+        <h1 class="text-gradient">Ai-Dorks</h1>
+        <form id="searchForm">
+            <div class="form-group">
+                <label for="domain">Domain Name:</label>
+                <input type="text" id="domain" placeholder="Enter domain name" required />
+            </div>
+
+            <div class="form-group">
+                <label for="dorksFile">Select Dorks File:</label>
+                <select id="dorksFile">
+                    <option value="dorks/dorks.txt">Dorks.txt</option>
+                    <option value="dorks/Top.txt">Top.txt</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Search" onclick="searchDorks(event)" />
+                <input type="reset" value="Reset" onclick="resetForm()" />
+            </div>
+        </form>
+
+        <div id="results"></div>
+    </div>
+
+    <!-- New Footer -->
+    <footer>
+        by OpensecAi_Team-ZerO
+    </footer>
+    
+    <script src="script.js"></script>
+</body>
+</html>
